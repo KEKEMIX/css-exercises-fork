@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.normal-class{
+    background-color:rgb(239, 138, 138);
+    font-family: verdana, 'Dejavu Sans', sans-serif;
+}
+
+.class-unique{
+    font-size: 24px;
+}
+
+#id-number2{
+    font-size: 36px;
+    color: rgb(7, 7, 236);
+}
+
+#id-number4{
+    background-color: rgb(155, 251, 126);
+    font-weight: bold;
+}
